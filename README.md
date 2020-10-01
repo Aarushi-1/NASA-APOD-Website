@@ -3,10 +3,10 @@
 
 # Technologies Used:
 
-HTML/CSS
-React.js
-React Routing
-Third Party API
+* HTML/CSS, 
+* React.js, 
+* React Routing, 
+* Third Party API
 
 # About the Website
 
